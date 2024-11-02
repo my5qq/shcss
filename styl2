@@ -1,0 +1,67 @@
+body {
+    background-image: url('https://images7.alphacoders.com/136/thumb-1920-1368873.png')
+}
+
+.hero-image-container {
+    background-image: url(none) !important;
+    height: 100px !important;
+    box-shadow: rgba(0, 0, 0, 0) 2px 3px 5px 1px !important;
+}
+
+.sidebar-wrapper, .view-content-wrapper {
+    background-color: #5e5e5e70 !important;
+    padding: 15px !important;
+    border-radius: 15px !important;
+    backdrop-filter: blur(1.5px) !important;
+}
+
+.view-changer-button {
+    background-color: #6d6d6d66 !important;
+    margin-left: 3px;
+    border-radius: 100px !important;
+    padding: 2px;
+    width: 40px !important;
+    height: 40px !Important;
+}
+
+.dropdown-button, .input-wrapper, .input-element, .sidebar-list-item .is-active, .custom-dropdown .custom-dropdown-control, .custom-async-dropdown .custom-dropdown-control, .advanced-tags-btn, .premiere-dates-wrapper {
+    background-color: #6d6d6d00 !important;
+    border-radius: 100px !important;
+}
+
+.view-changer-button > svg {
+    height: 20px;
+    width: 20px;
+}
+
+.view-changer-button--1 {
+  padding-left: 3px !important;
+}
+
+.view-changer-button--3 {
+  padding-right: 8px !important;
+
+}
+
+.MuiPopover-paper {
+    background-color: #0000 !important;
+}
+
+.dropdown-list {
+    background-color: #8282826e !important;
+    backdrop-filter: blur(1.5px) !important;
+}
+
+.table-header-label, .listRowDesktop-wrapper {
+  background-color: #6d6d6d66 !important;
+}
+
+.list-rows.jsx-3079732027::before {
+  content: "";
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  width: 10px;
+  margin: auto;
+}
