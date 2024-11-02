@@ -1,3 +1,9 @@
 body {
     background-image: url('https://images7.alphacoders.com/136/thumb-1920-1368873.png') !important;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
 }
+
+#__next > div > div > div.jsx-2687105798.header-wrapper > div{visibility:hidden;}
